@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://store.gohaiyangai.com/sitemap.xml
